@@ -1,4 +1,3 @@
-# btc-behavioral-analysis-thesis
 
 # Neural Networks for Financial Market Behavioral Analysis
 **Thesis Project | Binance BTCUSDT Trade Execution Analysis**
